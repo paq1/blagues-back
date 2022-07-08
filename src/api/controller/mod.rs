@@ -1,0 +1,1 @@
+pub mod blague_controller;
